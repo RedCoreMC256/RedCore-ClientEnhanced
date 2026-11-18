@@ -1,6 +1,6 @@
 # Security Policy
 
-Aura is intended to be transparent and client-side only. It should not collect telemetry, run ads, download remote code, or modify unrelated files.
+Aura/RedCore is intended to be transparent and client-side only. It should not collect telemetry, run ads, download remote code, or modify unrelated files.
 
 ## Reporting a vulnerability
 
