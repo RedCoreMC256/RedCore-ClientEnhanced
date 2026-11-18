@@ -1,12 +1,12 @@
-# Aura
+# RedCore
 
-Aura is a client-side Fabric mod for Minecraft `1.21.1`. It is built as a clean, expandable base for legitimate quality-of-life features: HUD widgets, visual toggles, zoom, and a custom ClickGUI.
+Aura/RedCore is a client-side Fabric mod for Minecraft `1.21.1`. It is built as a clean, expandable base for legitimate quality-of-life features: HUD widgets, visual toggles, zoom, and a custom ClickGUI.
 
-Aura is designed to be open-source and trustworthy: no ads, no telemetry, no remote code loading, and no gameplay automation.
+RedCore is designed to be open-source and trustworthy: no ads, no telemetry, no remote code loading, and no gameplay automation.
 
 ## What is included now
 
-- Fabric client-only mod scaffold with mod ID `aura`
+- Fabric client-only mod scaffold with mod ID `RedCore`
 - Java 21 Gradle/Loom build
 - Module registry with categories and persistent module state
 - JSON config at `.minecraft/config/aura.json`
